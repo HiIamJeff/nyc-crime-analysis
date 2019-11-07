@@ -3,7 +3,7 @@
 
 Welcome to NYC Crime Analysis Project!In this project, I took NYPD Complaint Data to do some exploratary analysis and evetually answer the questions with statistics: Do the different boroughs have significant differences in terms of crime level and crime type? 
 
-p.s. If you are interested in the more concise version of the project, please visit my medium article ().
+p.s. If you are interested in the more concise version of the project, please visit my medium article (https://medium.com/@a1080211jeff/exploring-nyc-analysis-of-crime-data-in-new-york-city-6134642b9833).
 
 
 I used Python and Tableau to do the data preprocessing, analysis and visualization. And the dataset I worked on could be found at the following website (Please be aware that the dataset is about 1.9GB) : https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
